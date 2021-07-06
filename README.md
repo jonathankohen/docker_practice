@@ -2,6 +2,16 @@
 
 Working example of using Docker with Django!
 
+## Installation
+
+This Django application needs [Pipenv](https://pypi.org/project/pipenv/) to run properly.
+
+At the root of the file, please run:
+
+`pipenv shell`
+
+`pipenv install`
+
 ## Setup
 
 ### Create .env
